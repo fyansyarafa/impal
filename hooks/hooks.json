@@ -1,0 +1,17 @@
+{
+    "last_remote_check": 1555831758,
+    "hooks": {
+        "voyager-themes": {
+            "name": "voyager-themes",
+            "description": "This hook will add support for Voyager front-end themes",
+            "version": "0.15",
+            "enabled": true
+        },
+        "voyager-appcenter-crashes": {
+            "name": "voyager-appcenter-crashes",
+            "description": "See error report from https://appcenter.ms/",
+            "version": "1.0.3",
+            "enabled": true
+        }
+    }
+}
